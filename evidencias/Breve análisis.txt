@@ -1,0 +1,8 @@
+¿Qué tanto se dificulta la lectura?
+-Muchísimo. El código pasa de ser "legible para humanos" a ser exclusivo para máquinas. ProGuard elimina todo el contexto humano.
+
+¿Se pierde claridad estructural?
+-Sí, a nivel visual y organizativo se pierde casi por completo.
+
+¿Sigue siendo posible entender la lógica?
+-Sí, pero requiere un esfuerzo inmenso
